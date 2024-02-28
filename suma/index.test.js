@@ -1,6 +1,8 @@
+
 const sum = require("./index.js");
 
-/*test("Add numbers", function() {
+
+test("Add numbers", function() {
   //ARRANGE
   const a = 1;
   const b = 2;
@@ -10,7 +12,7 @@ const sum = require("./index.js");
 
   //ARRANGE
   expect(result).toEqual(3);
-});*/
+});
 
 
 describe('Sum Function test suite', () => {
